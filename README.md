@@ -8,7 +8,7 @@ I am an experienced Web Designer/Developer with a demonstrated history of workin
 
 *   🌍  I'm based in Johannesburg, South Africa
 *   🖥️  See my portfolio at [My portfolio](http://mpho-moipolai.co.za)
-*   🚀  I'm currently working on [AutoTrader](http://www.autotrader.co.za)
+*   🚀  I'm currently working at [AutoTrader](http://www.autotrader.co.za)
 *   🧠  I'm learning Reactjs, Nextjs, Javascript and php
 *   🤝  I'm open to collaborating on any web development projects
 *   ⚡  I always willing to learn and improve my skills### Skills 
