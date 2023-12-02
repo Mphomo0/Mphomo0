@@ -1,10 +1,14 @@
 Hi 👋 My name is Mpho Moipolai
 ==============================
 
-Web Developer and Designer
+Fullstack Web Developer
 --------------------------
 
-I am an experienced Web Designer/Developer with a demonstrated history of working in the marketing and advertising industry. Skilled in Customer Service, UX Design, WordPress, Javascript, Reactjs, Nodejs, Photoshop, Adobe Illustrator and Adobe XD. Strong engineering professional with a certificate focused in Web designer/developer from ATTI College.
+"I am an accomplished Full Stack Web Developer with a proven track record of success in the marketing and advertising sector. My expertise spans a wide range of skills and competencies, including exceptional proficiency in customer service, as well as advanced technical skills in JavaScript, React.js, Express.js, Node.js, and Next.js. In addition to my coding skills, I also possess a creative flair, with proficiency in Photoshop, Illustrator, and Adobe XD.
+
+My qualifications include a certificate in Web Design and Development from ATTI College and training through HyperionDev, where I honed my skills and gained valuable experience in the field of web development. With a strong engineering background, I bring a unique blend of technical expertise and creative problem-solving to every project I undertake.
+
+I am passionate about crafting exceptional web experiences and am committed to delivering high-quality solutions that meet the unique needs of my clients and users. My dedication to staying updated with the latest industry trends and technologies ensures that I remain at the forefront of web development, consistently delivering outstanding results for my clients."
 
 *   🌍  I'm based in Johannesburg, South Africa
 *   🖥️  See my portfolio at [My portfolio](http://mpho-moipolai.co.za)
